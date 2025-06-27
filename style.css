@@ -1,3 +1,7 @@
+body{
+    background: url(background.jpg);
+}
+
 .div {
             background: linear-gradient(seagreen);
             color: blue;
